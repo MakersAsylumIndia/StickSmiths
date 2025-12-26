@@ -1,4 +1,4 @@
-# 🦯 StickSmiths – Smart Walking Stick for the Visually Impaired
+# StickSmiths – Smart Walking Stick for the Visually Impaired
 
 This repository documents the development of a Smart Walking Stick for the Visually Impaired, built as part of the Makers Asylum Winter Program 2025. The project aims to improve independent mobility for visually impaired users through real-time obstacle detection and intuitive feedback.
 
@@ -39,16 +39,3 @@ Lithium-ion battery & charging module
 3D printing & CAD design
 
 PVC-based structural components
-
-### 📜 License
-
-This project is fully open source and licensed as follows:
-
-Hardware:
-CERN Open Hardware License Version 2 – Strongly Reciprocal (CERN-OHL-S-2.0)
-
-Software:
-MIT License
-
-Documentation:
-Creative Commons Attribution 4.0 International (CC BY 4.0)
