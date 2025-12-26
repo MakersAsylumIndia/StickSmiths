@@ -1,6 +1,9 @@
-﻿Name of the Material/Component,Quantity,Reference Link,Additional Note
-,,,
-,,,
-,,,
-,,,
-,,,
+Name of the Material/Component,Quantity,Reference Link,Additional Note
+ESP32 Development Board,1,,Main microcontroller for processing and control
+Time-of-Flight (ToF) Distance Sensor,1,,Used for obstacle detection
+Vibration Motor,1,,Provides haptic feedback to the user
+Buzzer,1,,Provides audio alerts
+Li-Ion Battery,1,,Primary power source
+TP4056 Charging Module,1,,Used for charging the Li-Ion battery
+Amplifier Module,1,,Used to drive buzzer or audio output if required
+PVC Pipes,As required,,Used for the physical structure of the walking stick
